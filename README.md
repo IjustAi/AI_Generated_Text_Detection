@@ -13,5 +13,10 @@ Before fine tuning
 
 
 After fine tuning
+
+
+
+
 ![Screenshot 2024-01-15 at 11 11 37 PM](https://github.com/IjustAi/AI_Generated_Text_Detection/assets/95865487/438cc8f5-f938-417d-b883-0abaec3ea9ba)
+
 ![Screenshot 2024-01-15 at 11 11 28 PM](https://github.com/IjustAi/AI_Generated_Text_Detection/assets/95865487/228ae68b-0ad9-45c1-9cba-b178da7a2093)
